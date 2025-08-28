@@ -28,50 +28,14 @@ Strategi pemasaran digital modern untuk menjangkau lebih banyak pelanggan melalu
 
 ---
 
-## 🤖 Pintesia Lontar (WhatsApp Automation)
-
-**Platform otomasi WhatsApp yang kuat dan fleksibel.**  
-Digunakan oleh lebih dari 32.000 bisnis untuk mempercepat komunikasi dan penjualan.
-
-### Fitur utama:
-- **Bulk messaging:** Kirim pesan massal ke ribuan kontak sekaligus.
-- **Scheduled messages:** Jadwalkan pengiriman teks, media, dan video.
-- **Auto-responder chatbot:** Otomatisasi balasan pesan dengan AI sederhana.
-- **Unlimited:** Tidak ada batasan kontak, perangkat, pesan, atau aplikasi.
-- **30 hari garansi uang kembali** dan **tanpa kartu kredit untuk memulai**.
-
----
-
 ## 🌟 Mengapa Memilih Pintesia?
 
 - ✅ Pendekatan berbasis solusi – analisis, implementasi, dukungan.
-- 💡 Lebih dari 12 tahun pengalaman dalam pengembangan teknologi.
+- 💡 Lebih dari 2 tahun pengalaman dalam pengembangan teknologi.
 - 👨‍💻 Tim lokal yang responsif dan profesional.
 - 🔒 Privasi dan keamanan data terjaga.
 - 🛠️ 900+ pelanggan aktif dan 200+ ulasan positif.
 - 🚀 Dukungan teknis yang siap membantu setiap saat.
-
----
-
-## 📊 Statistik Kami
-
-- 12+ tahun pengalaman
-- 900+ pelanggan aktif
-- 200+ ulasan positif
-- 32.000+ perusahaan menggunakan Pintesia Lontar
-
----
-
-## 💬 Tanya Jawab Singkat
-
-**Q: Apakah tersedia trial gratis?**  
-A: Ya, Anda bisa mencoba gratis selama 10 hari tanpa kartu kredit.
-
-**Q: Apakah bisa refund?**  
-A: Kami menyediakan garansi uang kembali 30 hari.
-
-**Q: Mengapa chatbot penting untuk bisnis saya?**  
-A: Karena chatbot meningkatkan responsivitas, menghemat waktu, dan membantu meningkatkan konversi.
 
 ---
 
