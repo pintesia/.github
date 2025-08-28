@@ -78,8 +78,8 @@ A: Karena chatbot meningkatkan responsivitas, menghemat waktu, dan membantu meni
 ## 📬 Hubungi Kami
 
 - 🌍 Website: [https://pintesia.com](https://pintesia.com)
-- 📧 Email: hello@pintesia.com
-- 📞 WhatsApp: +62 815‑8222‑110
+- 📧 Email: [hello@pintesia.com](mailto:hello@pintesia.com)
+- 📞 WhatsApp: [+62 851-1755-3404](https://wa.me/6285117553404)
 - 🏢 Alamat: Perumahan BTP Blok G312, Makassar, Sulawesi Selatan, Indonesia
 
 ---
